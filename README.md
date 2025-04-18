@@ -12,3 +12,5 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+![Imagen de WhatsApp 2025-04-18 a las 10 05 44_fffd0939](https://github.com/user-attachments/assets/4bc9fc0a-c344-4a7c-8f5d-2c4484e1b1f0)
